@@ -1,0 +1,7 @@
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\obj\Debug\dropbox02.csprojAssemblyReference.cache
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\obj\Debug\dropbox02.csproj.CoreCompileInputs.cache
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\bin\Debug\dropbox02.exe.config
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\bin\Debug\dropbox02.exe
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\bin\Debug\dropbox02.pdb
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\obj\Debug\dropbox02.exe
+C:\Users\mark chambers\Desktop\ADVANCED AGILE\dropbox02\dropbox02\obj\Debug\dropbox02.pdb
